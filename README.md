@@ -22,3 +22,26 @@ Soy estudiante de Ingeniería en Computación en la ESPOL (FIEC). Aprendo constr
 | Sistemas | Arquitectura de sistemas y de computadoras, Linux, Kali |
 | Seguridad | Seguridad informática, criptografía |
 | Diseño de software | Patrones de diseño, frameworks |
+
+
+
+## Proyectos destacados
+
+### Asistente Educativo de Errores para Principiantes en Go
+- **Problema:** ayudar a principiantes a entender sus errores al programar en Go
+- **Tecnologías:** Python, PLY (lex/yacc), CustomTkinter
+- **Funcionalidades:** análisis léxico y sintáctico de código Go con mensajes educativos
+- **Repositorio:** [Asistente-Educativo-de-Errores-para-Principiantes-en-Go](https://github.com/gabytv1/Asistente-Educativo-de-Errores-para-Principiantes-en-Go)
+
+### Agente financiero
+- **Problema:** automatizar tareas de finanzas mediante un agente
+- **Funcionalidades:** backend de un agente de finanzas
+- **Repositorio:** [agentic-financial-backend](https://github.com/LLuisGL/agentic-financial-backend)
+
+### WiDS Datathon 2026
+- **Problema:** análisis de datos para el WiDS Datathon 2026
+- **Repositorio:** [wids-datathon-2026-datadivas-exe](https://github.com/WiDS-Datathon/wids-datathon-2026-datadivas-exe)
+
+### Proyecto de Sistemas de Bases de Datos 
+- **Funcionalidades:** sistema desarrollado sobre bases de datos
+- **Repositorio:** [SBD_proyectoG6](https://github.com/Leaxmus/SBD_proyectoG6)
