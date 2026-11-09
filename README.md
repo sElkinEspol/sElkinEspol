@@ -45,3 +45,17 @@ Soy estudiante de Ingeniería en Computación en la ESPOL (FIEC). Aprendo constr
 ### Proyecto de Sistemas de Bases de Datos 
 - **Funcionalidades:** sistema desarrollado sobre bases de datos
 - **Repositorio:** [SBD_proyectoG6](https://github.com/Leaxmus/SBD_proyectoG6)
+
+## Otros proyectos
+
+- **Aplicación móvil para un centro médico.**
+- **Sistema de entrada y salida de garita** (base de datos).
+- **Sistema de inventario, compra y venta de una parroquia.**
+- **CardioPrev** (hackathon): sistema con una muñeca que detecta los latidos para ayudar a personas con problemas cardiovasculares.
+- **Prevención de incendios** (hackathon): priorización de incendios en tiempo real a escala nacional.
+- **Smart Shading IoT:** informe académico sobre persianas automatizadas de material celulósico reciclado para reducir el consumo de energía en laboratorios.
+
+## Contacto
+
+- Correo: elksgord@espol.edu.ec
+- [LinkedIn](https://www.linkedin.com/in/elkin-salazar-gordillo-55a1042a3/)
