@@ -1,4 +1,4 @@
-## Elkin Salazar
+## Elkin Salazar Gordillo
 
 *Estudiante de Ingeniería en Computación en la ESPOL, Guayaquil, Ecuador.*
 
