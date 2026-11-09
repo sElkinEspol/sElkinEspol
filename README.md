@@ -4,16 +4,16 @@
 
 Me interesan la ciberseguridad y el análisis de datos.
 
-## Sobre mí
+## Sobre mí 🙋‍♂️
 
 Soy estudiante de Ingeniería en Computación en la ESPOL (FIEC). Aprendo construyendo proyectos: desde sistemas de bases de datos y aplicaciones móviles hasta soluciones para hackathons.
 
-## Áreas de interés
+## Áreas de interés 🚀
 
 - **Ciberseguridad:** seguridad informática, criptografía, Linux y Kali.
 - **Análisis de datos:** bases de datos SQL y NoSQL de gran escala.
 
-## Habilidades y tecnologías
+## Habilidades y tecnologías 📈
 
 | Categoría | Tecnologías |
 |-----------|-------------|
@@ -25,7 +25,7 @@ Soy estudiante de Ingeniería en Computación en la ESPOL (FIEC). Aprendo constr
 
 
 
-## Proyectos destacados
+## Proyectos destacados ✅
 
 ### Asistente Educativo de Errores para Principiantes en Go
 - **Problema:** ayudar a principiantes a entender sus errores al programar en Go
@@ -33,7 +33,7 @@ Soy estudiante de Ingeniería en Computación en la ESPOL (FIEC). Aprendo constr
 - **Funcionalidades:** análisis léxico y sintáctico de código Go con mensajes educativos
 - **Repositorio:** [Asistente-Educativo-de-Errores-para-Principiantes-en-Go](https://github.com/gabytv1/Asistente-Educativo-de-Errores-para-Principiantes-en-Go)
 
-### Agente financiero
+### Agente financiero 
 - **Problema:** automatizar tareas de finanzas mediante un agente
 - **Funcionalidades:** backend de un agente de finanzas
 - **Repositorio:** [agentic-financial-backend](https://github.com/LLuisGL/agentic-financial-backend)
@@ -55,7 +55,7 @@ Soy estudiante de Ingeniería en Computación en la ESPOL (FIEC). Aprendo constr
 - **Prevención de incendios** (hackathon): priorización de incendios en tiempo real a escala nacional.
 - **Smart Shading IoT:** informe académico sobre persianas automatizadas de material celulósico reciclado para reducir el consumo de energía en laboratorios.
 
-## Contacto
+## Contacto 🌐
 
 - Correo: elksgord@espol.edu.ec
 - [LinkedIn](https://www.linkedin.com/in/elkin-salazar-gordillo-55a1042a3/)
