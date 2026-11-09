@@ -1,16 +1,14 @@
-## Hi there 👋
+## Elkin Salazar
 
-<!--
-**sElkinEspol/sElkinEspol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Estudiante de Ingeniería en Computación en la ESPOL, Guayaquil, Ecuador.*
 
-Here are some ideas to get you started:
+Me interesan la ciberseguridad y el análisis de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy estudiante de Ingeniería en Computación en la ESPOL (FIEC). Aprendo construyendo proyectos: desde sistemas de bases de datos y aplicaciones móviles hasta soluciones para hackathons.
+
+## Áreas de interés
+
+- **Ciberseguridad:** seguridad informática, criptografía, Linux y Kali.
+- **Análisis de datos:** bases de datos SQL y NoSQL de gran escala.
